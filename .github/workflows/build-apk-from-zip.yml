@@ -1,4 +1,4 @@
-name: Build TimeCam Studio APK
+name: TimeCam-Studio
 
 on:
   push:
